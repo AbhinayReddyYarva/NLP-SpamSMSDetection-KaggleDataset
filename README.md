@@ -9,3 +9,6 @@ Overview (according to folders)
   5. Traning the Machine Learning Model and finding the best model.
 
 With this model development I tried to differenciate the training speed on CPU, GPU (colab), TPU (colab). Go to folder 5-Model Building, Evaluating & Selecting and check jupyter notebooks with execution timings.
+
+My CPU configuration
+![](CPUConfig.JPG)
